@@ -15,8 +15,8 @@ AES加解密算法是最常见的对称加密算法，是美国联邦政府采�
 ### 软件
 Vivado 2018.3<br> 
 Arduino 1.8.13<br> 
-CRC在线计算器<br> 
-AES在线加解密计算器<br> 
+CRC在线计算器（用于对仿真结果正确性的验证）<br> 
+AES在线加解密计算器（用于对仿真结果正确性的验证）<br> 
 ### 硬件
 SpartanEdge Accelerator Board<br> 
 FPGA星号：xc7s15ftgb196<br> 
