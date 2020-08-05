@@ -1,5 +1,5 @@
 # 2020_Xilinx_Summer_School_Project
-2020年新工科联盟-Xilinx暑期学校（Summer School）项目
+2020年新工科联盟-Xilinx暑期学校（Summer School）项目。
 ## 项目名称：
 基于FPGA的CRC检验算法及AES加解密算法<br> 
 ## 项目功能：
@@ -8,8 +8,12 @@ AES加解密算法：加解密的密钥长128bits，数据块固定128bits，以
 ## 项目成员：
 章程<br> 
 李润发<br> 
-## 项目仿真结果：
-### CRC检验算法仿真：
-![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/raw/Images/CRC_simulation.png) 
-### AES加解算法仿真：
-![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/raw/Images/AES_global_simulation.png) 
+## 项目软硬件工具：
+### 软件
+Vivado 2018.3<br> 
+Arduino 1.8.13<br> 
+CRC在线计算器<br> 
+AES在线加解密计算器<br> 
+### 硬件
+SpartanEdge Accelerator Board<br> 
+FPGA星号：xc7s15ftgb196<br> 
