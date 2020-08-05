@@ -10,6 +10,6 @@ AES加解密算法：加解密的密钥长128bits，数据块固定128bits，以
 李润发<br> 
 ## 项目仿真结果：
 ### CRC检验算法仿真：
-![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/Images/CRC_simulation.png) 
+![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/raw/Images/CRC_simulation.png) 
 ### AES加解算法仿真：
-![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/Images/AES_global_simulation.png) 
+![](https://github.com/OctopusZC/2020_Xilinx_Summer_School_Project/raw/Images/AES_global_simulation.png) 
